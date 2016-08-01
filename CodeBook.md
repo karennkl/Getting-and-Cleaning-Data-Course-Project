@@ -24,4 +24,4 @@ This analysis was performed using only the files above, and did not use the raw 
   3. All feature columns that did not contain the exact string "mean()" or "std()" were removed. 
   4. The activity column was converted from a integer to a factor, using labels describing the activities.
   5. A tidy data set was created containing the mean of each feature for each subject and each activity. 
-  6. The tidy data set was output to a CSV file.
+  6. The tidy data set (180 rows, 68 columns) was created as CSV file.
